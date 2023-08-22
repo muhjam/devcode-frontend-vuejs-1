@@ -14,8 +14,7 @@
     <div data-cy="devcode-title">
       <!-- TODO: Tambahkan elemen heading 1 di bawah ini dengan berisi kalimat I'm ready
       for the next challenge! -->
-      <h1>I'm ready
-      for the next challenge! jamjam</h1>
+      <h1>devcode</h1>
     </div>
   </div>
 </template>
